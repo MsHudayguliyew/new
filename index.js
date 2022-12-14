@@ -3,3 +3,9 @@ const sayHello = (name) => {
 }
 
 sayHello()
+
+const greet = (name) => {
+    console.log(`hello ${name}`)
+}
+
+greet()
