@@ -9,3 +9,8 @@ const greet = (name) => {
 }
 
 greet()
+const tas = (name) => {
+    console.log(`hello ${name}`)
+}
+
+tas()
